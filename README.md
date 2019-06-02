@@ -1,5 +1,6 @@
 # RD_0603
 ReactとDjangoでとてもシンプルなAPIとSPAを作りました。  
+今回のアプリの動作:https://www.youtube.com/watch?v=aA_pZtn5EJI  
 Ant Designを使用するために、必要のないボタン等をデザインとして自動で入っています。  
 APIは"ドメイン/API"でURLを参照すると利用出来る様になっています。
   
