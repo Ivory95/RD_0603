@@ -1,5 +1,7 @@
 # RD_0603
-ReactとDjangoで簡易的なAPIを作りました。
+ReactとDjangoでとてもシンプルなAPIとSPAを作りました。  
+Ant Designを使用するために、必要のないボタン等をデザインとして自動で入っています。  
+APIは"ドメイン/API"でURLを参照すると利用出来る様になっています。
   
 参照元:https://www.youtube.com/watch?v=uZgRbnIsgrA
   
@@ -7,5 +9,5 @@ ReactとDjangoで簡易的なAPIを作りました。
 Django  
 React  
 -Django REST framework  
--Ant Degign  
+-Ant Design  
 -mysql  
